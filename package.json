@@ -1,0 +1,26 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Simple Weather Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remilap/Weather.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "R. Lapointe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remilap/Weather/issues"
+  },
+  "homepage": "https://github.com/remilap/Weather#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  }
+}
